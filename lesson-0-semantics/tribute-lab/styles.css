@@ -1,2 +1,87 @@
-/* Styles go beneath here! */
+main {
+   background-color: #eeeeee; 
+   padding: 15px;
+   margin: 30px 8px;
+}
 
+body {
+    font-family:  -apple-system, system-ui, BlinkMacSystemFont,"Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.5;
+}
+header {
+    text-align: center;
+}
+
+figure {
+    background-color: white;
+    padding: 10px;
+    margin: 0;
+}
+
+img {
+    margin: 0 138px;
+}
+
+figcaption {
+    text-align: center;
+    margin: 15px 0 5px;
+    color: #454545;
+}
+
+body {
+    margin: 0;
+}
+
+#tl {
+    text-align: center;
+    margin: 50px 0;
+    color: #333333;
+}
+
+ul {
+    display: block;
+    margin: 0 365px 50px;
+    padding: 0 0 0 40px;
+    text-align: left;
+}
+
+li {
+    margin-top: 16px;
+    color: #3e3e3e;
+    line-height: 1.6;
+}
+
+blockquote {
+    margin: 0 387px 50px;
+    color: #333333;
+}
+
+#quote {
+    text-align: left;
+}
+
+cite {
+    text-align: left;
+    color: #333333;
+}
+
+h3 {
+    margin: 19px 0;
+    text-align: center;
+    color: #333333;
+}
+
+h1 {
+    font-size: 40px;
+    color: #333333;
+    margin: 27px 0 0;
+}
+
+p {
+    color: #383838;
+    margin: 16px 0;
+}
+
+a {
+    color: #477ca7;
+}
